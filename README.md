@@ -9,7 +9,6 @@ A simple and interactive weather forecast application built using **Django** and
 - 🌐 Search weather by city name
 - 🌡️ Temperature in Celsius and Fahrenheit
 - 💧 Displays humidity and pressure
-- 🌤️ Weather condition icon (auto-fetched)
 - 🔄 Live API data from OpenWeatherMap
 - ❌ Graceful error message for invalid cities
 - 🎨 Responsive and modern UI (HTML + CSS only, no JS)
@@ -23,13 +22,14 @@ A simple and interactive weather forecast application built using **Django** and
 | Backend      | Python 3, Django         |
 | Frontend     | HTML5, CSS3              |
 | API Service  | OpenWeatherMap           |
-| Hosting (optional) | Render / Heroku / PythonAnywhere |
+| Hosting      | Render |
 
 ---
 
 ## 📸 Screenshots
 
-> Insert a screenshot of the weather page here if available.
+![image](https://github.com/user-attachments/assets/d2b610bc-0ce5-4fb3-9a2c-b1815d5c31d2)
+
 
 ---
 
