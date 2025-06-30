@@ -36,6 +36,6 @@ A simple and interactive weather forecast application built using **Django** and
 ## 🔗 Live Demo
 
 If deployed:  
-[🔗 View Live App]([https://your-deployment-link.com/weather/?city=Delhi](https://weather-forecast-web-app-using-django.onrender.com))
+[🔗 View Live App](https://your-deployment-link.com/weather/?city=Delhi](https://weather-forecast-web-app-using-django.onrender.com)
 
 Or test locally:  
